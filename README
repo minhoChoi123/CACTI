@@ -108,17 +108,3 @@ Memory IO design:  CACTI-IO: CACTI With OFF-chip Power-Area-Timing Models,
 
 3D model:
      CACTI-3DD: Architecture-level modeling for 3D die-stacked DRAM main memory
-
-We are still improving the tool and refining the code. If you
-have any comments, questions, or suggestions please write to
-us.
-
-Naveen Muralimanohar             
-naveen.muralimanohar@hpe.com    
-
-Ali Shafiee 
-shafiee@cs.utah.edu
-
-Vaishnav Srinivas
-vaishnav.srinivas@gmail.com
-
